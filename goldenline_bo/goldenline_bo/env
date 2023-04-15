@@ -1,0 +1,6 @@
+SECRET_KEY=$-@4o90l*a$&^a63!d3q41*l&(^%6nfbkghjm!(a4xb9lsl28$
+DB_NAME=bdd_goldenline
+DB_USER=majd
+DB_PASSWORD=Studi2023!
+DB_HOST=127.0.0.1
+DB_PORT=5432
